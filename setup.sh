@@ -130,3 +130,4 @@ sudo apt-get install -y libbliss-dev-common
 sudo apt-get install -y libbliss2
 sudo apt-get install -y calibre
 sudo apt-get install -y vokoscreen
+sudo apt-get install -y exuberant-ctags
