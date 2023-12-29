@@ -156,3 +156,4 @@ sudo apt-get install -y gedit-plugin-word-completion
 sudo apt-get install -y gedit-plugins
 sudo apt-get install -y gedit-plugins-common
 sudo apt-get install -y gedit-source-code-browser-plugin
+sudo apt-get install -y chktex
