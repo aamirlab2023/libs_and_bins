@@ -14,6 +14,7 @@ sudo apt-get install -y curl
 sudo apt-get install -y gzip
 sudo apt-get install -y tcsh
 sudo apt-get install -y flex
+sudo apt-get install -y unrar
 sudo apt-get install -y cmake
 sudo apt-get install -y mpich
 sudo apt-get install -y fftw2
