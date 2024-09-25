@@ -1,6 +1,7 @@
 #!/bin/bash
 
 sudo apt-get install -y bc
+sudo apt-get install -y rar
 sudo apt-get install -y g++
 sudo apt-get install -y git
 sudo apt-get install -y mpi
@@ -26,6 +27,8 @@ sudo apt-get install -y pngnq
 sudo apt-get install -y bison
 sudo apt-get install -y patch
 sudo apt-get install -y fftw3
+sudo apt-get install -y unrar
+sudo apt-get install -y winrar
 sudo apt-get install -y nwchem
 sudo apt-get install -y gthumb
 sudo apt-get install -y png23d
@@ -180,3 +183,9 @@ sudo apt-get install -y gedit-plugin-session-saver
 sudo apt-get install -y gedit-plugin-word-completion
 sudo apt-get install -y gedit-plugin-bracket-completion
 sudo apt-get install -y gedit-source-code-browser-plugin
+
+echo "*************************************************"
+echo "Run the following commands in the terminal."
+echo "*************************************************"
+echo "  1. sudo apt-get update"
+echo "  2. sudo apt-get install gabedit"
