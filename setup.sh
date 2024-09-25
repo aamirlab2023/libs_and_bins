@@ -57,6 +57,7 @@ sudo apt-get install -y gedit-dev
 sudo apt-get install -y libxt-dev
 sudo apt-get install -y fftw3-dev
 sudo apt-get install -y golang-go
+sudo apt-get install -y openbabel
 sudo apt-get install -y gzip-win32
 sudo apt-get install -y libpng-dev
 sudo apt-get install -y ffmpeg-doc
@@ -99,6 +100,7 @@ sudo apt-get install -y libblas-test
 sudo apt-get install -y libblasr-dev
 sudo apt-get install -y libbliss-dev
 sudo apt-get install -y gedit-common
+sudo apt-get install -y openbabel-gui
 sudo apt-get install -y libfftw3-mpi3
 sudo apt-get install -y libjpeg-progs
 sudo apt-get install -y libjpeg-tools
