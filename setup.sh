@@ -11,9 +11,13 @@ sudo apt-get install -y npm
 sudo apt-get install -y make
 sudo apt-get install -y wget
 sudo apt-get install -y curl
+sudo apt-get install -y ergo
+sudo apt-get install -y psi4
+sudo apt-get install -y mpqc
 sudo apt-get install -y gzip
 sudo apt-get install -y tcsh
 sudo apt-get install -y flex
+sudo apt-get install -y mopac
 sudo apt-get install -y unrar
 sudo apt-get install -y cmake
 sudo apt-get install -y mpich
@@ -22,6 +26,7 @@ sudo apt-get install -y pngnq
 sudo apt-get install -y bison
 sudo apt-get install -y patch
 sudo apt-get install -y fftw3
+sudo apt-get install -y nwchem
 sudo apt-get install -y gthumb
 sudo apt-get install -y png23d
 sudo apt-get install -y ffmpeg
