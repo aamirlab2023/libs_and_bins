@@ -89,6 +89,7 @@ sudo apt-get install -y libblas-dev
 sudo apt-get install -y libblas64-3
 sudo apt-get install -y libblis-dev
 sudo apt-get install -y libjpeg-dbg
+sudo apt-get install -y libkim-api2
 sudo apt-get install -y libblis64-3
 sudo apt-get install -y default-jre
 sudo apt-get install -y default-jdk
@@ -126,6 +127,9 @@ sudo apt-get install -y libcairo2-dev
 sudo apt-get install -y ffmpeg2theora
 sudo apt-get install -y liblapack-pic
 sudo apt-get install -y mono-complete
+sudo apt-get install -y libkim-api-dev
+sudo apt-get install -y libkim-api-doc
+sudo apt-get install -y openkim-models
 sudo apt-get install -y openmpi-common
 sudo apt-get install -y libopenmpi-dev
 sudo apt-get install -y libfftw3-long3
