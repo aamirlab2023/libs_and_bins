@@ -40,6 +40,7 @@ sudo apt-get install -y nodejs
 sudo apt-get install -y pngmeta
 sudo apt-get install -y python3
 sudo apt-get install -y calibre
+sudo apt-get install -y numlockx
 sudo apt-get install -y automake
 sudo apt-get install -y fftw-dev
 sudo apt-get install -y libjpeg8
