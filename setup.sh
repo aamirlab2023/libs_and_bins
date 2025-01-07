@@ -189,6 +189,7 @@ sudo apt-get install -y gedit-plugin-smart-spaces
 sudo apt-get install -y gedit-plugin-character-map
 sudo apt-get install -y gedit-plugin-session-saver
 sudo apt-get install -y gedit-plugin-word-completion
+sudo apt-get install -y gnome-software-plugin-flatpak
 sudo apt-get install -y gedit-plugin-bracket-completion
 sudo apt-get install -y gedit-source-code-browser-plugin
 
