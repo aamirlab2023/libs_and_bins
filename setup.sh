@@ -192,6 +192,7 @@ sudo apt-get install -y gedit-plugin-word-completion
 sudo apt-get install -y gnome-software-plugin-flatpak
 sudo apt-get install -y gedit-plugin-bracket-completion
 sudo apt-get install -y gedit-source-code-browser-plugin
+flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo
 
 echo "*************************************************"
 echo "Run the following commands in the terminal."
