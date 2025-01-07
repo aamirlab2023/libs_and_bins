@@ -37,9 +37,11 @@ sudo apt-get install -y zlib1g
 sudo apt-get install -y chktex
 sudo apt-get install -y golang
 sudo apt-get install -y nodejs
+sudo apt-get install -y flatpak
 sudo apt-get install -y pngmeta
 sudo apt-get install -y python3
 sudo apt-get install -y calibre
+sudo apt-get install -y libnss3
 sudo apt-get install -y numlockx
 sudo apt-get install -y automake
 sudo apt-get install -y fftw-dev
@@ -67,6 +69,7 @@ sudo apt-get install -y libxt-dev
 sudo apt-get install -y fftw3-dev
 sudo apt-get install -y golang-go
 sudo apt-get install -y openbabel
+sudo apt-get install -y libgtk-3-0
 sudo apt-get install -y gzip-win32
 sudo apt-get install -y libpng-dev
 sudo apt-get install -y ffmpeg-doc
