@@ -113,6 +113,8 @@ sudo apt-get install -y libblas-test
 sudo apt-get install -y libblasr-dev
 sudo apt-get install -y libbliss-dev
 sudo apt-get install -y gedit-common
+sudo apt-get install -y libjs-mathjax
+sudo apt-get install -y fonts-mathjax
 sudo apt-get install -y openbabel-gui
 sudo apt-get install -y libfftw3-mpi3
 sudo apt-get install -y libjpeg-progs
@@ -155,6 +157,7 @@ sudo apt-get install -y libncurses5-dev
 sudo apt-get install -y libblis3-openmp
 sudo apt-get install -y libblis3-serial
 sudo apt-get install -y build-essential
+sudo apt-get install -y mathjax-siunitx
 sudo apt-get install -y libfftw3-double3
 sudo apt-get install -y libfftw3-mpi-dev
 sudo apt-get install -y libfftw3-single3
@@ -162,6 +165,8 @@ sudo apt-get install -y libturbojpeg-dev
 sudo apt-get install -y liblapack64-test
 sudo apt-get install -y liblapacke64-dev
 sudo apt-get install -y gedit-plugin-git
+sudo apt-get install -y node-mathjax-full
+sudo apt-get install -y libjs-mathjax-doc
 sudo apt-get install -y libturbojpeg0-dev
 sudo apt-get install -y ffmpegthumbnailer
 sudo apt-get install -y libjpeg-turbo8-dev
@@ -172,6 +177,7 @@ sudo apt-get install -y gedit-latex-plugin
 sudo apt-get install -y libjpeg-turbo-progs
 sudo apt-get install -y libblis-pthread-dev
 sudo apt-get install -y libbliss-dev-common
+sudo apt-get install -y fonts-mathjax-extras
 sudo apt-get install -y png-definitive-guide
 sudo apt-get install -y libadios-openmpi-dev
 sudo apt-get install -y libblis64-openmp-dev
