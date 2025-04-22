@@ -45,6 +45,7 @@ sudo apt-get install -y libnss3
 sudo apt-get install -y numlockx
 sudo apt-get install -y automake
 sudo apt-get install -y fftw-dev
+sudo apt-get install -y luarocks
 sudo apt-get install -y libjpeg8
 sudo apt-get install -y libjpeg9
 sudo apt-get install -y png2html
