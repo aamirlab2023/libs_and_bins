@@ -1,5 +1,6 @@
 #!/bin/bash
 
+sudo apt-get install -y xdotool
 sudo apt-get install -y bc
 sudo apt-get install -y rar
 sudo apt-get install -y g++
